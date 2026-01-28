@@ -1,0 +1,41 @@
+{
+    "title": "Demo lab - standalone",
+    "labguideVisible": true,
+    "uploadEnabled": true,
+    "additionalOptionsEnabled": true,
+    "splitPosition": 50,
+    "displayMode": "terminal",
+    "chapters": [
+        {
+            "title": "Overview",
+            "file": "000-overview",
+            "panel": "none"
+        },
+        {
+            "title": "Title 1",
+            "file": "100-chapter1",
+            "panel": "terminal"
+        },
+        {
+            "title": "Title 2",
+            "file": "200-chapter2",
+            "panel": "ide"
+        },
+        {
+            "title": "Title 3",
+            "file": "300-chapter3",
+            "panel": "terminal",
+            "externalPages": [
+                 {
+                   "title": "Example",
+                   "url": "https://%%LABURL%%/lab/lab.html"
+                 }
+            ]
+        },
+        {
+            "title": "Title 4",
+            "file": "test",
+            "panel": "jupyter"
+        }
+    ]
+}

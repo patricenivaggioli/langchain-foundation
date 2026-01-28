@@ -1,0 +1,9 @@
+{
+    "title": "Demo lab - toc, no chapters",
+    "labguideVisible": true,
+    "uploadEnabled": true,
+    "additionalOptionsEnabled": true,
+    "splitPosition": 50,
+    "displayMode": "terminal",
+    "externalPage": "https://%%LABURL%%/some-page"
+}

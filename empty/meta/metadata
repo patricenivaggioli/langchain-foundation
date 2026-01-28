@@ -1,0 +1,8 @@
+{
+    "title": "Outshift",
+    "labguideVisible": false,
+    "uploadEnabled": true,
+    "additionalOptionsEnabled": true,
+    "splitPosition": 0,
+    "displayMode": "terminal",
+}
