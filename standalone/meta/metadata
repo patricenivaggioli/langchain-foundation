@@ -7,8 +7,18 @@
     "displayMode": "terminal",
     "chapters": [
         {
-            "title": "100 - Foundational models on Azure",
+            "title": "100 - Foundational models",
             "file": "100_foundational_models_azure",
+            "panel": "jupyter"
+        },
+        {
+            "title": "110 - Prompting",
+            "file": "110_prompting_azure",
+            "panel": "jupyter"
+        },
+        {
+            "title": "120 - Tools",
+            "file": "120_tools_azure",
             "panel": "jupyter"
         }
     ]
