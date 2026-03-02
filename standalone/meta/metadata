@@ -20,6 +20,32 @@
             "title": "120 - Tools",
             "file": "120_tools_azure",
             "panel": "jupyter"
+        },
+        {
+            "title": "130 - Web Search",
+            "file": "130_web_search_azure",
+            "panel": "jupyter"
+        },
+        {
+            "title": "140 - Memory",
+            "file": "140_memory_azure",
+            "panel": "jupyter"
+        },
+        {
+            "title": "150 - Multimodal Messages",
+            "file": "150_multimodal_messages_azure",
+            "panel": "jupyter"
+        },
+        {
+            "title": "160 - Personal Chef",
+            "file": "160_personal_chef_azure",
+            "panel": "jupyter"
+        },
+        {
+            "title": "210 - Travel Agent",
+            "file": "210_travel_agent_azure",
+            "panel": "jupyter"
         }
+
     ]
 }
