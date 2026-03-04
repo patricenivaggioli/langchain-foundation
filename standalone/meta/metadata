@@ -1,5 +1,5 @@
 {
-    "title": "Demo lab - standalone",
+    "title": "Langchain Foundation Lab",
     "labguideVisible": true,
     "uploadEnabled": true,
     "additionalOptionsEnabled": true,
@@ -42,10 +42,9 @@
             "panel": "jupyter"
         },
         {
-            "title": "210 - Travel Agent",
-            "file": "210_travel_agent_azure",
-            "panel": "jupyter"
+            "title": "Initialization",
+            "file": "000-overview",
+            "panel": "terminal"
         }
-
     ]
 }
