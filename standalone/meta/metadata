@@ -7,6 +7,11 @@
     "displayMode": "terminal",
     "chapters": [
         {
+            "title": "Initialization",
+            "file": "000-overview",
+            "panel": "terminal"
+        },
+        {
             "title": "100 - Foundational models",
             "file": "100_foundational_models_azure",
             "panel": "jupyter"
@@ -40,11 +45,6 @@
             "title": "160 - Personal Chef",
             "file": "160_personal_chef_azure",
             "panel": "jupyter"
-        },
-        {
-            "title": "Initialization",
-            "file": "000-overview",
-            "panel": "terminal"
         }
     ]
 }

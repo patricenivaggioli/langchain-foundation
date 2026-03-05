@@ -3,6 +3,6 @@
 Please initialize your environment variables
 
 ```bash
-cp /home/ubuntu/.env_vars ./work/.env
+cat .env_vars ./work/.env.template > .env.temp && mv .env.temp ./work/.env
 ```
 
