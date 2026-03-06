@@ -18,7 +18,7 @@ style: |
 
 # Building AI Agents with LangChain
 
-## A Comprehensive Guide
+## An Introduction Guide
 
 ---
 
@@ -30,7 +30,6 @@ style: |
 4. Web Search Integration
 5. Memory & State
 6. Multimodality
-7. Project: Personal Chef
 
 ---
 
@@ -171,8 +170,3 @@ We will build a **Personal Chef Agent** that:
 3. Provides **instructions**.
 4. Remembers context for **follow-up questions**.
 
----
-
-# Ready to Start?
-
-Let's dive into the notebooks!
