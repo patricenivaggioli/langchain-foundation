@@ -1,8 +1,8 @@
 # Overview
 
-Please initialize your environment variables
+Please initialize your dynamic environment variables for the Jupyter notebooks
 
 ```bash
-cat .env_vars ./work/.env.template > .env.temp && mv .env.temp ./work/.env
+cp .env_vars ./work/.env
 ```
 
